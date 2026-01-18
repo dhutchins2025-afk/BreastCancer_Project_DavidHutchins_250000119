@@ -1,11 +1,11 @@
-Name: 
+Name: David Hutchins
 
-Matric Number: 
+Matric Number: 250000119
 
 Machine Learning Algorithm Used : Feed-Forward Neural Network (Keras)
 
 Model persistence method used : HDF5 format (Hierarchical Data Format)
 
-Live URL of the hosted application: 
+Live URL of the hosted application: https://breastcancer-project-davidhutchins.onrender.com/
 
-GitHub repository link : 
+GitHub repository link : https://github.com/dhutchins2025-afk/BreastCancer_Project_DavidHutchins_250000119
